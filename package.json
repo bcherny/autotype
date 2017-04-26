@@ -1,0 +1,19 @@
+{
+  "name": "autotype",
+  "version": "0.0.1",
+  "description": "Coming Soon...",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bcherny/autotype.git"
+  },
+  "author": "Boris Cherny <boris@performancejs.com> (https://performancejs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcherny/autotype/issues"
+  },
+  "homepage": "https://github.com/bcherny/autotype#readme"
+}
